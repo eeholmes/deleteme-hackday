@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/index.html</loc>
-    <lastmod>2024-11-07T17:33:55.077Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/index.html</loc>
+    <lastmod>2025-01-07T20:22:53.921Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/setup.html</loc>
-    <lastmod>2024-11-07T17:33:55.073Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/content/chapter-1.html</loc>
+    <lastmod>2025-01-07T20:22:53.917Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/add-content.html</loc>
-    <lastmod>2024-11-07T17:33:55.069Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/content/chapter-2.html</loc>
+    <lastmod>2025-01-07T20:22:53.917Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/customizing.html</loc>
-    <lastmod>2024-11-07T17:33:55.069Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/content/chapter-3.html</loc>
+    <lastmod>2025-01-07T20:22:53.917Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/rendering.html</loc>
-    <lastmod>2024-11-07T17:33:55.073Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/content/references.html</loc>
+    <lastmod>2025-01-07T20:22:53.917Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/figures_and_tables.html</loc>
-    <lastmod>2024-11-07T17:33:55.069Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/HackDay-Quarto-Book.pdf</loc>
+    <lastmod>2025-01-07T20:27:56.951Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/code.html</loc>
-    <lastmod>2024-11-07T17:33:55.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/adding-refs.html</loc>
-    <lastmod>2024-11-07T17:33:55.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/content/references.html</loc>
-    <lastmod>2024-11-07T17:33:55.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/NOAA-quarto-book.pdf</loc>
-    <lastmod>2024-11-07T17:39:04.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-book/NOAA-quarto-book.docx</loc>
-    <lastmod>2024-11-07T17:39:05.940Z</lastmod>
+    <loc>https://eeholmes.github.io/deleteme-hackday/HackDay-Quarto-Book.docx</loc>
+    <lastmod>2025-01-07T20:27:58.274Z</lastmod>
   </url>
 </urlset>
