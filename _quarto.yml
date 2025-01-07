@@ -3,37 +3,25 @@ project:
 
 book: 
   page-navigation: true
-  title: "NOAA quarto book" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-book" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-book"
+  title: "HackDay Quarto Book"
+  site-url: "https://eeholmes.github.io/deleteme-hackday/" 
+  repo-url: "https://github.com/eeholmes/deleteme-hackday"
   repo-actions: [edit, source, issue]
   favicon: assets/favicon.ico
   downloads: [pdf, docx]
   search: true
   author:
-    - name: Jane Doe
+    - name: Eli Holmes
       affiliations:
-        - name: NOAA Fisheres
-          department: Northwest Fisheries Science Center
-    - name: Eva Nováková
-      institute: test
+        - name: NOAA Fisheres Open Science
+    - name: Jon Peake
       affiliations:
-        - name: NOAA Fisheries
-          department: West Coast Regional Office
-          institute: test
-    - name: Matti Meikäläinen
-      affiliations:
-        - name: NOAA Fisheries
-          department: Southwest Fisheries Science Center
+        - name: NOAA Fisheres Open Science
   chapters:
     - index.qmd
-    - content/setup.qmd
-    - content/add-content.qmd
-    - content/customizing.qmd
-    - content/rendering.qmd
-    - content/figures_and_tables.qmd
-    - content/code.qmd
-    - content/adding-refs.qmd
+    - content/chapter-1.qmd
+    - content/chapter-2.qmd
+    - content/chapter-3.qmd
     - content/references.qmd
 
   page-footer:
@@ -42,14 +30,14 @@ book:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    logo: "images/noaa-fisheries-rgb-2line-horizontal-small.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://www.fisheries.noaa.gov/
+        text: "NOAA Fisheries"
     style: "docked"
     search: true
     collapse-level: 1
